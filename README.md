@@ -8,7 +8,8 @@ Don't know what to do for the day? Roll the dice and let it decide for you :)
 2. Put your hobbies as text files within the hobbies folder
     - the file name will become the value of your "dice roll"
     - e.g. the file drawing.txt will become "Drawing"
-3. There you go
+3. Run the script 
+4. There you go
 
 ## Technical
 The hobby files within the hobbies folder are copied to the tmp folder
